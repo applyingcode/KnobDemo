@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{009C4605-9B3D-4C67-B37F-50B383253249}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="KnobDemo/ArtboardKnobDrawing.cs">
+    <Files>
+      <File FileName="KnobDemo/KnobControlDemo.cs" Line="1" Column="14" />
+      <File FileName="KnobDemo/ArtboardKnobDrawing.cs" Line="12" Column="20" />
+      <File FileName="KnobDemo/Main.storyboard" />
+      <File FileName="KnobDemo/ViewController.cs" Line="2" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.KnobDemo PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8AF107ED-BDF5-40EB-B109-5BF070327922">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.KnobDemo>
+</Properties>
